@@ -1,0 +1,23 @@
+{
+  "language": {
+    "message": "Chinese, Traditional"
+  },
+  "ext_name": {
+    "message": "Claude 匯出器"
+  },
+  "ext_subname": {
+    "message": "輕鬆提取聊天對話"
+  },
+  "ext_fulltitle": {
+    "message": "Claude 匯出器 - 輕鬆提取聊天對話"
+  },
+  "ext_description": {
+    "message": "提取並保存 Claude 對話到 markdown、文本、JSON、CSV 和圖像。"
+  },
+  "thanks": {
+    "message": "感謝您的使用～"
+  },
+  "feedback": {
+    "message": "問題迴響"
+  }
+}

@@ -1,0 +1,67 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+  "name": "__MSG_ext_fulltitle__",
+  "description": "__MSG_ext_description__",
+
+  "manifest_version": 3,
+  "version": "2.1.1",
+  "permissions": ["storage"],
+  "default_locale": "en",
+
+  "icons": {
+    "16": "assets/icon16.png",
+    "32": "assets/icon32.png",
+    "48": "assets/icon48.png",
+    "128": "assets/icon128.png"
+  },
+
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "assets/icon16.png",
+      "32": "assets/icon32.png",
+      "48": "assets/icon48.png",
+      "128": "assets/icon128.png"
+    }
+  },
+
+  "background": {
+    "service_worker": "background.js"
+  },
+
+  "options_page": "options.html",
+
+  "content_scripts": [
+    {
+      "matches": ["https://claude.ai/*"],
+      "js": ["content.js"],
+      "all_frames": false,
+      "run_at": "document_end"
+    },
+    {
+      "matches": ["https://claude.ai/*"],
+      "js": ["injW.js"],
+      "all_frames": false,
+      "run_at": "document_start"
+    },
+    {
+      "js": ["contentweb.js"],
+      "matches": ["https://*.claudexporter.com/*"],
+      "run_at": "document_end"
+    }
+  ],
+
+  "web_accessible_resources": [
+    {
+      "resources": ["inj.js"],
+      "matches": ["https://claude.ai/*"]
+    }
+  ],
+
+  "host_permissions": ["https://*.claudexporter.com/"],
+
+  "externally_connectable": {
+    "matches": ["https://*.claudexporter.com/*"]
+  }
+}

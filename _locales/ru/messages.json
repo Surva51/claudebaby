@@ -1,0 +1,23 @@
+{
+  "language": {
+    "message": "Russian"
+  },
+  "ext_name": {
+    "message": "Claude Экспортер"
+  },
+  "ext_subname": {
+    "message": "Легко извлекайте чаты"
+  },
+  "ext_fulltitle": {
+    "message": "Claude Экспортер - Легко извлекайте чаты"
+  },
+  "ext_description": {
+    "message": "Извлеките и сохраните разговоры Claude в форматах markdown, text, JSON, CSV и изображений."
+  },
+  "thanks": {
+    "message": "Строить с ❤️. Спасибо за использование."
+  },
+  "feedback": {
+    "message": "Обратная связь"
+  }
+}

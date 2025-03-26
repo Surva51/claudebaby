@@ -1,0 +1,23 @@
+{
+  "language": {
+    "message": "Vietnamese"
+  },
+  "ext_name": {
+    "message": "Claude Exporter"
+  },
+  "ext_subname": {
+    "message": "Trình xuất Claude"
+  },
+  "ext_fulltitle": {
+    "message": "Claude Exporter - Trình xuất Claude"
+  },
+  "ext_description": {
+    "message": "Trích xuất và lưu trữ cuộc trò chuyện Claude dưới dạng markdown, text, JSON, CSV và hình ảnh."
+  },
+  "thanks": {
+    "message": "Xây dựng với ❤️. Cảm ơn đã sử dụng."
+  },
+  "feedback": {
+    "message": "Phản hồi"
+  }
+}

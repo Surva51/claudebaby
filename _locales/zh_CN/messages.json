@@ -1,0 +1,23 @@
+{
+  "language": {
+    "message": "Chinese, Simplified"
+  },
+  "ext_name": {
+    "message": "Claude 导出工具"
+  },
+  "ext_subname": {
+    "message": "轻松提取聊天记录"
+  },
+  "ext_fulltitle": {
+    "message": "Claude 导出工具 - 轻松提取聊天记录"
+  },
+  "ext_description": {
+    "message": "提取并保存 Claude 对话到 markdown、文本、JSON、CSV 和图像。"
+  },
+  "thanks": {
+    "message": "感谢您的使用～"
+  },
+  "feedback": {
+    "message": "问题反馈"
+  }
+}

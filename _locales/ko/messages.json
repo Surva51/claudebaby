@@ -1,0 +1,23 @@
+{
+  "language": {
+    "message": "Korean"
+  },
+  "ext_name": {
+    "message": "Claude 익스포터"
+  },
+  "ext_subname": {
+    "message": "채팅 대화 쉽게 추출"
+  },
+  "ext_fulltitle": {
+    "message": "Claude 익스포터 - 채팅 대화 쉽게 추출"
+  },
+  "ext_description": {
+    "message": "Claude 대화를 마크다운, 텍스트, JSON, CSV 및 이미지로 추출하여 저장합니다."
+  },
+  "thanks": {
+    "message": "❤️으로 구축하세요. 이용해 주셔서 감사합니다."
+  },
+  "feedback": {
+    "message": "피드백"
+  }
+}

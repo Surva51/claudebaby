@@ -1,0 +1,23 @@
+{
+  "language": {
+    "message": "Japanese"
+  },
+  "ext_name": {
+    "message": "Claude エクスポーター"
+  },
+  "ext_subname": {
+    "message": "チャット会話を簡単に抽出"
+  },
+  "ext_fulltitle": {
+    "message": "Claude エクスポーター - チャット会話を簡単に抽出"
+  },
+  "ext_description": {
+    "message": "Claudeの会話をマークダウン、テキスト、JSON、CSV、画像に抽出して保存します。"
+  },
+  "thanks": {
+    "message": "❤️でビルドします。 ご利用いただきありがとうございます。"
+  },
+  "feedback": {
+    "message": "フィードバック"
+  }
+}

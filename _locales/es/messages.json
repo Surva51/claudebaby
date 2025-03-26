@@ -1,0 +1,23 @@
+{
+  "language": {
+    "message": "Spanish"
+  },
+  "ext_name": {
+    "message": "Claude Exportador"
+  },
+  "ext_subname": {
+    "message": "Extrae fácilmente conversaciones de chat"
+  },
+  "ext_fulltitle": {
+    "message": "Claude Exportador - Extrae fácilmente conversaciones de chat"
+  },
+  "ext_description": {
+    "message": "Extraiga y guarde las conversaciones de Claude en markdown, texto, JSON, CSV e imágenes."
+  },
+  "thanks": {
+    "message": "Construye con ❤️. Gracias por usar."
+  },
+  "feedback": {
+    "message": "Realimentación"
+  }
+}

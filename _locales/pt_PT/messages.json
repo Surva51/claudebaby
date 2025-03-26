@@ -1,0 +1,23 @@
+{
+  "language": {
+    "message": "Portuguese"
+  },
+  "ext_name": {
+    "message": "Claude Exportador"
+  },
+  "ext_subname": {
+    "message": "Extraia conversas de bate-papo"
+  },
+  "ext_fulltitle": {
+    "message": "Claude Exportador - Extraia conversas de bate-papo"
+  },
+  "ext_description": {
+    "message": "Extraia e salve as conversas do Claude em markdown, texto, JSON, CSV e imagens."
+  },
+  "thanks": {
+    "message": "Construa com ❤️. Obrigado por usar."
+  },
+  "feedback": {
+    "message": "Feedback"
+  }
+}
